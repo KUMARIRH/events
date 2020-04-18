@@ -1,0 +1,49 @@
+{
+  "events2020": [
+    {
+      "id": "1",
+      "date": "2010-11-10",
+      "time": "11:00",
+      "cost": "£10",
+      "name": "Kirkstall Festival - Kirkstall Abbey",
+      "desc": "Lots of activities including music etc..",
+      "userId": "1",
+      "address": {
+        "street": "Abbey Road",
+        "no": "",
+        "city": "Leeds",
+        "postcode": "LS5 3EH"
+      }
+    },
+    {
+      "id": "2",
+      "date": "2010-06-28",
+      "time": "10:00",
+      "cost": "£1",
+      "name": "Antiques Quarter Flea Market - Abbeydale Picture House",
+      "desc": "A mixture of general Flea Market stalls and specialist Antiques, Vintage, Retro, Arts, Crafts, Makers & Salvage stalls",
+      "userId": "2",
+      "address": {
+        "street": "Abbeydale Road",
+        "no": "387",
+        "city": "Sheffield",
+        "postcode": "S7 1FS"
+      }
+    }
+  ],
+
+  "users": [
+    {
+      "id": "1",
+      "name": "Veronica Smith",
+      "email": "veronica@gmail.com",
+      "password": "111-111-1111"
+    },
+    {
+      "id": "2",
+      "name": "Liz Taylor",
+      "email": "liz@yahoo.com",
+      "password": "234-121-1111"
+    }
+  ]
+}
