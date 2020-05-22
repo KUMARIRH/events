@@ -1,0 +1,171 @@
+{
+  "events2020": [
+    {
+      "id": "1",
+      "date": "2010-11-10",
+      "time": "11:00",
+      "cost": "£10",
+      "name": "Kirkstall Festival - Kirkstall Abbey",
+      "desc": "Attractions will include a fairground, more than 160 stalls, a tea dance, as well as eight performance areas, comedy, rock, classical, jazz, folk and light music as well as a procession and displays.",
+      "userId": "1",
+      "address": {
+        "street": "Abbey Road",
+        "no": "",
+        "city": "Leeds",
+        "postcode": "LS5 3EH"
+      }
+    },
+    {
+      "id": "2",
+      "date": "2010-06-28",
+      "time": "10:00",
+      "cost": "£1",
+      "name": "Antiques Quarter Flea Market - Abbeydale Picture House",
+      "desc": "A mixture of general Flea Market stalls and specialist Antiques, Vintage, Retro, Arts, Crafts, Makers & Salvage stalls",
+      "userId": "2",
+      "address": {
+        "street": "Abbeydale Road",
+        "no": "387",
+        "city": "Sheffield",
+        "postcode": "S7 1FS"
+      }
+    },
+	{
+      "id": "3",
+      "date": "2010-12-28",
+      "time": "17:00",
+      "cost": "FREE",
+      "name": "HYDE PARK FAIR",
+      "desc": "Fun for the kids, big wheel, ghost train etc...",
+      "userId": "1",
+      "address": {
+        "street": "Hyde Road",
+        "no": "",
+        "city": "Leeds",
+        "postcode": "LS6 1FS"
+      }
+    },
+	{
+      "id": "4",
+      "date": "2010-12-28",
+      "time": "17:00",
+      "cost": "FREE",
+      "name": "The Yorkshire pudding Festival",
+      "desc": "The UK’s first Yorkshire Pudding Festival will take over Leeds Kirkgate Market this February. You’ll be able to tuck into loads of weird and wonderful dishes, all made using the humble Yorkshire pud. From wraps stuffed with roast dinners to sweet treats filled with fruit and ice cream, who knew the Yorkshire pudding could be so versatile? It’s free to enter, there will be loads of different vendors to check out and you can even get a drink at the bar.",
+      "userId": "1",
+      "address": {
+        "street": "Vicar Lane",
+        "no": "",
+        "city": "Leeds",
+        "postcode": "LS2 7HY"
+      }
+    },
+	{
+      "id": "5",
+      "date": "2010-12-28",
+      "time": "17:00",
+      "cost": "FREE",
+      "name": "Pub in the Park",
+      "desc": " Pub in the Park will take over Roundhay Park for another three-day celebration of food and music. It’s organised by acclaimed chef Tom Kerridge and brings together the best pubs and restaurants in the UK, including his own two Michelin-starred venue, The Hand and Flowers. They will show off their signature dishes, which you can pair with real ale, wine and cocktails. To soundtrack your weekend, you can look forward to an impressive line-up of top live musicians.",
+      "userId": "2",
+      "address": {
+        "street": "Mansion Lane, off Princess Avenue",
+        "no": "",
+        "city": "Leeds",
+        "postcode": "LS8 2HH"
+      }
+    },
+	{
+      "id": "6",
+      "date": "2010-08-30",
+      "time": "10:00",
+      "cost": "FREE",
+      "name": "Leeds West Indian Carnival",
+      "desc": "The Leeds West Indian Carnival will be back on the August bank holiday weekend. Expect joyous dancing, vibrant music and colourful parades through Chapeltown as Leeds comes alive with the sights and sounds of Caribbean culture for the 53rd edition of the famous festival. Afterwards, there will be a huge party in Potternewton Park, with live music and tasty street food.",
+      "userId": "2",
+      "address": {
+        "street": "Harehills Lane, Chapletown"
+        "no": "Potternewton Park",
+        "city": "Leeds",
+        "postcode": "LS7 2AH"
+      }
+    },
+	{
+      "id": "7",
+      "date": "2010-12-28",
+      "time": "17:00",
+      "cost": "FREE",
+      "name": "Leeds Scene - Leeds Grand Theatre and Opera North",
+      "desc": "Opera North’s first production of the year will be Kurt Weill’s Street Scene. It’s a hot summer’s day in New York City and tension is bubbling under the surface of one Big Apple community. Frank is mad at the world for changing too fast, his daughter Rose wants to leave the dirty city behind and his wife Anna is having an affair with the milkman. Watch as their story evolves in soap opera style on the stage, all to a soundtrack of golden-age Broadway standards.",
+      "userId": "1",
+      "address": {
+        "street": "New Briggate, West Yorkshire",
+        "no": "46"
+        "city": "Leeds",
+        "postcode": "LS1 6NZ"
+      }
+    },
+	{
+      "id": "8",
+      "date": "2010-12-28",
+      "time": "17:00",
+      "cost": "FREE",
+      "name": "Ice Cube",
+      "desc": "Millennium Square will once again be taken over by Ice Cube at the start of February. The annual pop-up ice rink is incredibly popular with all ages, and because it’s indoors, you can enjoy it whatever the weather. They run lessons, so you can learn how to skate, and they have special penguin skating aids for the kids. They also have a series of winter themed rides, like the Starflyer, and a cafe.",
+      "userId": "2",
+      "address": {
+        "street": "Calverly Street",
+        "no": "",
+        "city": "Leeds",
+        "postcode": "LS1 3AA"
+      }
+    },
+	{
+      "id": "9",
+      "date": "2010-12-28",
+      "time": "17:00",
+      "cost": "FREE",
+      "name": "Cocktails in the City",
+      "desc": "Across two nights in February, Cocktails in the City will take over the Town Hall to celebrate the city’s cocktail culture. 20 of the city’s best bars will pack up their spirits, mixers and shakers to open up pop-up stalls at the event, where you can get one-off cocktails you won’t find anywhere else. There will also be cocktail masterclasses, secret tasting experiences and unexpected adventures in the Victorian prison cells.",
+      "userId": "1",
+      "address": {
+        "street": "The Headrow ",
+        "no": "Leeds Town Hall",
+        "city": "Leeds",
+        "postcode": "LS1 3AD"
+      }
+    },
+	{
+      "id": "10",
+      "date": "2010-12-28",
+      "time": "17:00",
+      "cost": "FREE",
+      "name": "Planet Earth II Live in concert",
+      "desc": "Planet Earth II is one of the most successful BBC TV shows of the decade. Sir David Attenborough’s BAFTA award-winning documentary explores the mysteries of the planet’s various habitats and it’s now going out on a special UK tour. Expect a host of incredible video sequences from the TV series that take you across the world on a 200 square metre, 4K Ultra HD LED screen, as a full symphony orchestra perform the soundtrack live.",
+      "userId": "2",
+      "address": {
+        "street": "Claypit Lane, Arena Quarter",
+        "no": "First Direct Arena",
+        "city": "Leeds",
+        "postcode": "LS2 1JS"
+      }
+    }
+	
+	
+  ],
+
+  "users": [
+    {
+      "id": "1",
+      "name": "Veronica Smith",
+      "email": "veronica@gmail.com",
+      "password": "111-111-1111"
+    },
+    {
+      "id": "2",
+      "name": "Liz Taylor",
+      "email": "liz@yahoo.com",
+      "password": "234-121-1111"
+    }
+  ]
+}
